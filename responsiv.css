@@ -302,6 +302,7 @@
         width: 30px;
         height: 30px;
         opacity: 0;
+        cursor: pointer;
     }
     .header-menu ul li ul {
         top: 4%;
